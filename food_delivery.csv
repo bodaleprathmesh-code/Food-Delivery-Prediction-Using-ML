@@ -1,0 +1,501 @@
+Delivery_ID,Delivery_Distance,Weather,Traffic,Rider_Rating,Preparation_Time,Vehicle,Delivery_Status
+FD001,10.0,Sunny,Low,3.1,33,Bike,Late
+FD002,10.5,Rainy,Low,3.6,10,Bike,On Time
+FD003,4.1,Cloudy,Low,3.0,30,Scooter,On Time
+FD004,4.1,Cloudy,High,2.5,35,Bike,Late
+FD005,10.8,Sunny,Low,4.9,20,Bike,On Time
+FD006,2.3,Sunny,High,4.0,35,Bike,Late
+FD007,11.2,Cloudy,High,3.4,27,Scooter,Late
+FD008,12.6,Cloudy,High,3.9,32,Bike,Late
+FD009,1.6,Sunny,Low,2.7,17,Bike,On Time
+FD010,6.3,Cloudy,High,2.9,21,Bike,On Time
+FD011,10.4,Cloudy,Medium,2.7,30,Bike,Late
+FD012,8.5,Sunny,Medium,3.2,30,Bike,Late
+FD013,10.6,Rainy,High,3.1,11,Scooter,Late
+FD014,6.6,Sunny,High,3.9,32,Scooter,Late
+FD015,4.0,Cloudy,High,4.1,14,Scooter,On Time
+FD016,3.0,Cloudy,Medium,4.4,23,Scooter,On Time
+FD017,6.1,Rainy,Low,3.7,34,Bike,On Time
+FD018,13.1,Sunny,Low,4.2,29,Bike,Late
+FD019,6.4,Cloudy,Medium,3.1,27,Bike,On Time
+FD020,10.5,Sunny,High,4.4,34,Scooter,Late
+FD021,2.6,Sunny,Medium,4.9,33,Scooter,On Time
+FD022,14.6,Rainy,Medium,2.8,30,Scooter,Late
+FD023,12.8,Cloudy,Low,3.4,15,Bike,On Time
+FD024,9.4,Cloudy,Low,3.4,35,Scooter,Late
+FD025,4.4,Sunny,Medium,2.7,33,Scooter,Late
+FD026,12.4,Rainy,Medium,2.8,31,Scooter,Late
+FD027,14.3,Sunny,Medium,4.0,16,Bike,On Time
+FD028,11.0,Sunny,Medium,3.4,26,Scooter,Late
+FD029,2.7,Sunny,Low,4.0,17,Bike,On Time
+FD030,1.1,Cloudy,Low,2.7,11,Scooter,On Time
+FD031,2.0,Sunny,Medium,3.0,14,Scooter,On Time
+FD032,4.4,Cloudy,Medium,2.7,31,Scooter,Late
+FD033,6.0,Sunny,High,2.6,30,Bike,Late
+FD034,1.8,Cloudy,High,2.8,16,Bike,On Time
+FD035,8.5,Sunny,Low,3.7,12,Scooter,On Time
+FD036,12.3,Rainy,Low,4.1,27,Bike,Late
+FD037,14.6,Rainy,High,2.9,25,Scooter,Late
+FD038,4.0,Sunny,Low,3.4,22,Scooter,On Time
+FD039,14.0,Rainy,Low,4.2,33,Scooter,Late
+FD040,3.2,Sunny,High,3.9,27,Bike,On Time
+FD041,11.5,Sunny,Medium,3.8,26,Bike,On Time
+FD042,1.8,Cloudy,High,2.7,12,Bike,On Time
+FD043,6.7,Rainy,Medium,3.9,11,Bike,On Time
+FD044,6.9,Cloudy,Medium,4.8,16,Scooter,On Time
+FD045,4.3,Sunny,Medium,3.2,20,Bike,On Time
+FD046,1.1,Cloudy,Medium,2.7,27,Bike,On Time
+FD047,8.1,Sunny,Low,2.7,17,Scooter,On Time
+FD048,5.0,Sunny,Medium,3.3,35,Bike,Late
+FD049,10.4,Cloudy,High,2.8,14,Scooter,Late
+FD050,2.6,Sunny,Medium,3.2,29,Bike,Late
+FD051,11.0,Sunny,Medium,3.2,25,Scooter,Late
+FD052,13.7,Rainy,Low,3.6,18,Bike,On Time
+FD053,1.0,Rainy,Medium,3.2,33,Scooter,Late
+FD054,8.7,Sunny,Low,2.7,32,Bike,Late
+FD055,8.6,Rainy,Medium,2.9,14,Bike,Late
+FD056,5.3,Rainy,High,4.7,21,Bike,On Time
+FD057,10.5,Cloudy,Medium,3.9,23,Bike,On Time
+FD058,14.0,Sunny,Low,4.5,15,Scooter,On Time
+FD059,1.3,Cloudy,Low,4.8,35,Bike,On Time
+FD060,4.7,Rainy,Low,4.7,25,Bike,On Time
+FD061,3.8,Rainy,Low,4.6,17,Bike,On Time
+FD062,1.3,Sunny,Low,4.7,34,Scooter,On Time
+FD063,5.9,Cloudy,Medium,4.6,20,Bike,On Time
+FD064,2.6,Rainy,Low,4.9,18,Bike,On Time
+FD065,2.5,Sunny,Medium,3.3,29,Bike,Late
+FD066,6.4,Cloudy,Low,4.3,10,Bike,On Time
+FD067,6.1,Sunny,Medium,3.3,20,Bike,On Time
+FD068,11.1,Sunny,Low,3.5,22,Scooter,On Time
+FD069,8.8,Sunny,Medium,3.4,33,Bike,Late
+FD070,9.6,Sunny,Medium,2.5,19,Bike,On Time
+FD071,7.0,Cloudy,Medium,3.7,24,Bike,On Time
+FD072,8.2,Rainy,High,4.3,31,Bike,Late
+FD073,5.0,Cloudy,Medium,2.7,34,Bike,Late
+FD074,10.4,Sunny,Low,2.6,17,Scooter,On Time
+FD075,9.6,Rainy,Medium,4.7,28,Bike,Late
+FD076,11.1,Sunny,Medium,2.9,32,Bike,Late
+FD077,13.5,Rainy,High,4.4,17,Bike,Late
+FD078,12.3,Cloudy,Medium,3.9,13,Scooter,On Time
+FD079,2.9,Cloudy,Medium,3.9,20,Scooter,On Time
+FD080,9.6,Cloudy,Medium,4.6,27,Scooter,On Time
+FD081,13.6,Cloudy,Medium,3.1,17,Scooter,Late
+FD082,11.7,Cloudy,Medium,3.2,12,Scooter,On Time
+FD083,4.3,Sunny,High,2.7,14,Bike,On Time
+FD084,6.4,Sunny,Low,3.5,20,Scooter,On Time
+FD085,6.8,Sunny,Medium,4.8,28,Bike,On Time
+FD086,13.0,Rainy,Medium,2.5,21,Scooter,Late
+FD087,11.5,Rainy,High,3.5,33,Bike,Late
+FD088,7.8,Sunny,Medium,3.5,31,Scooter,On Time
+FD089,11.1,Rainy,High,5.0,27,Bike,Late
+FD090,13.7,Cloudy,Medium,2.7,23,Bike,Late
+FD091,13.1,Sunny,Low,3.3,24,Scooter,Late
+FD092,5.7,Rainy,Low,4.9,23,Scooter,On Time
+FD093,12.7,Cloudy,Medium,2.6,21,Bike,Late
+FD094,10.1,Rainy,Medium,4.4,17,Bike,On Time
+FD095,12.7,Cloudy,Low,3.7,13,Bike,On Time
+FD096,7.5,Sunny,Medium,4.0,33,Bike,On Time
+FD097,11.9,Sunny,Low,3.9,19,Scooter,On Time
+FD098,6.6,Cloudy,Low,4.2,30,Bike,On Time
+FD099,2.4,Rainy,High,4.0,13,Bike,On Time
+FD100,5.9,Sunny,Medium,3.8,20,Bike,On Time
+FD101,12.9,Rainy,Low,4.9,30,Scooter,Late
+FD102,10.9,Sunny,Medium,4.9,18,Scooter,On Time
+FD103,7.5,Rainy,Medium,3.3,17,Bike,On Time
+FD104,4.9,Cloudy,High,3.9,31,Scooter,Late
+FD105,5.7,Cloudy,Low,3.7,21,Scooter,On Time
+FD106,5.8,Rainy,Medium,3.2,10,Bike,On Time
+FD107,2.2,Cloudy,Medium,4.4,32,Scooter,On Time
+FD108,10.0,Cloudy,High,2.7,17,Scooter,Late
+FD109,10.7,Sunny,Medium,3.7,26,Scooter,On Time
+FD110,7.0,Cloudy,Low,4.3,18,Scooter,On Time
+FD111,4.5,Sunny,Low,2.8,27,Bike,On Time
+FD112,3.7,Cloudy,Low,4.0,34,Scooter,On Time
+FD113,14.7,Rainy,Low,3.4,19,Bike,Late
+FD114,10.9,Sunny,Low,2.6,19,Bike,On Time
+FD115,9.9,Rainy,Low,2.5,19,Scooter,On Time
+FD116,7.7,Sunny,High,3.1,25,Bike,Late
+FD117,12.5,Sunny,Low,4.1,11,Bike,On Time
+FD118,3.1,Cloudy,Low,5.0,13,Scooter,On Time
+FD119,9.5,Rainy,Low,3.8,24,Scooter,On Time
+FD120,5.2,Cloudy,Medium,3.9,11,Bike,On Time
+FD121,14.3,Sunny,Low,4.2,15,Bike,On Time
+FD122,3.4,Sunny,Low,3.6,29,Scooter,On Time
+FD123,5.1,Sunny,Medium,4.3,24,Bike,On Time
+FD124,10.6,Rainy,High,4.1,31,Bike,Late
+FD125,7.0,Cloudy,Medium,4.8,14,Bike,On Time
+FD126,1.8,Rainy,Medium,4.6,19,Scooter,On Time
+FD127,2.7,Cloudy,Medium,4.9,26,Scooter,On Time
+FD128,7.1,Cloudy,High,4.3,29,Scooter,Late
+FD129,1.4,Sunny,Medium,4.7,28,Bike,On Time
+FD130,15.0,Cloudy,Low,2.6,34,Bike,Late
+FD131,7.6,Cloudy,High,3.0,28,Scooter,Late
+FD132,9.9,Cloudy,Low,3.4,20,Scooter,On Time
+FD133,10.4,Rainy,Low,4.2,19,Scooter,On Time
+FD134,12.4,Cloudy,Medium,3.3,20,Bike,Late
+FD135,14.6,Sunny,Medium,5.0,31,Scooter,Late
+FD136,6.8,Sunny,Medium,4.4,30,Scooter,On Time
+FD137,11.6,Sunny,Medium,4.8,24,Scooter,On Time
+FD138,2.7,Rainy,Medium,3.1,15,Scooter,On Time
+FD139,8.7,Cloudy,Low,5.0,13,Scooter,On Time
+FD140,14.3,Cloudy,Low,4.8,19,Scooter,On Time
+FD141,6.8,Cloudy,Medium,3.6,14,Scooter,On Time
+FD142,3.7,Cloudy,Medium,2.8,12,Scooter,On Time
+FD143,11.8,Rainy,Low,4.5,18,Bike,On Time
+FD144,5.0,Sunny,Medium,5.0,25,Bike,On Time
+FD145,7.3,Cloudy,Low,4.4,22,Scooter,On Time
+FD146,14.1,Rainy,High,3.1,22,Bike,Late
+FD147,13.0,Sunny,Low,3.7,35,Scooter,Late
+FD148,6.4,Cloudy,High,5.0,25,Bike,On Time
+FD149,2.8,Rainy,Low,2.8,24,Bike,On Time
+FD150,8.4,Cloudy,Medium,3.5,30,Bike,Late
+FD151,2.0,Rainy,Low,4.1,22,Bike,On Time
+FD152,12.9,Rainy,High,3.5,20,Scooter,Late
+FD153,13.2,Sunny,Low,4.1,19,Bike,On Time
+FD154,11.5,Sunny,Low,4.1,13,Scooter,On Time
+FD155,3.3,Sunny,Low,3.3,11,Scooter,On Time
+FD156,6.0,Sunny,Low,3.5,31,Bike,On Time
+FD157,3.4,Sunny,High,4.0,17,Scooter,On Time
+FD158,13.8,Sunny,Medium,3.1,18,Bike,Late
+FD159,13.6,Cloudy,Low,3.9,12,Scooter,On Time
+FD160,14.2,Rainy,Low,4.9,32,Scooter,Late
+FD161,7.4,Sunny,High,4.6,13,Bike,On Time
+FD162,6.3,Sunny,Low,4.2,10,Scooter,On Time
+FD163,4.8,Cloudy,Medium,4.4,11,Scooter,On Time
+FD164,12.7,Rainy,High,3.1,35,Scooter,Late
+FD165,4.1,Sunny,Low,4.4,34,Bike,On Time
+FD166,9.8,Rainy,Medium,3.3,24,Bike,Late
+FD167,9.1,Cloudy,Low,3.2,33,Scooter,Late
+FD168,3.5,Sunny,Medium,4.9,26,Scooter,On Time
+FD169,12.6,Sunny,High,3.7,35,Scooter,Late
+FD170,11.5,Sunny,Low,4.9,14,Bike,On Time
+FD171,13.0,Cloudy,High,4.9,35,Scooter,Late
+FD172,2.3,Sunny,Low,2.8,21,Scooter,On Time
+FD173,9.2,Rainy,High,2.8,17,Scooter,Late
+FD174,1.4,Rainy,Medium,4.8,17,Bike,On Time
+FD175,9.9,Cloudy,Medium,4.1,13,Bike,On Time
+FD176,1.6,Sunny,High,2.8,17,Bike,On Time
+FD177,6.4,Sunny,High,4.2,27,Scooter,On Time
+FD178,9.2,Cloudy,High,4.1,25,Scooter,Late
+FD179,14.1,Sunny,Medium,3.0,24,Bike,Late
+FD180,13.0,Sunny,Medium,3.9,30,Scooter,Late
+FD181,1.8,Sunny,High,4.9,24,Bike,On Time
+FD182,10.3,Cloudy,Medium,2.6,35,Scooter,Late
+FD183,4.4,Sunny,Medium,2.7,34,Bike,Late
+FD184,9.2,Rainy,Low,4.4,35,Bike,Late
+FD185,4.9,Rainy,High,3.9,35,Bike,Late
+FD186,2.5,Rainy,Low,3.4,35,Bike,Late
+FD187,9.2,Sunny,Low,2.8,23,Bike,On Time
+FD188,11.4,Cloudy,High,3.8,13,Scooter,On Time
+FD189,8.1,Rainy,Low,4.5,31,Scooter,Late
+FD190,7.4,Rainy,Low,3.7,22,Scooter,On Time
+FD191,10.6,Cloudy,High,2.7,12,Scooter,Late
+FD192,9.5,Sunny,Low,4.1,27,Scooter,On Time
+FD193,6.3,Cloudy,Low,3.8,23,Bike,On Time
+FD194,12.1,Sunny,Medium,4.7,27,Bike,Late
+FD195,7.0,Rainy,Medium,4.6,22,Scooter,On Time
+FD196,11.2,Sunny,Low,3.1,14,Scooter,On Time
+FD197,1.9,Rainy,Low,2.7,33,Scooter,Late
+FD198,12.4,Cloudy,Medium,3.9,20,Bike,On Time
+FD199,6.8,Rainy,High,3.6,33,Bike,Late
+FD200,14.6,Cloudy,Medium,3.9,16,Bike,On Time
+FD201,10.2,Sunny,Low,4.6,21,Bike,On Time
+FD202,11.7,Cloudy,High,4.6,34,Bike,Late
+FD203,9.5,Cloudy,Medium,2.6,18,Scooter,On Time
+FD204,13.9,Sunny,Low,2.9,31,Scooter,Late
+FD205,2.0,Cloudy,High,2.7,26,Bike,Late
+FD206,6.3,Cloudy,Low,3.3,20,Bike,On Time
+FD207,13.4,Sunny,High,2.6,12,Scooter,Late
+FD208,7.2,Sunny,Medium,3.5,16,Bike,On Time
+FD209,5.8,Sunny,Medium,4.0,26,Scooter,On Time
+FD210,1.6,Sunny,Medium,2.5,19,Bike,On Time
+FD211,11.7,Rainy,Low,2.8,25,Scooter,Late
+FD212,3.5,Sunny,Medium,3.8,31,Scooter,On Time
+FD213,2.0,Rainy,Low,2.5,12,Scooter,On Time
+FD214,9.1,Cloudy,Medium,3.5,13,Scooter,On Time
+FD215,1.3,Sunny,High,4.0,32,Scooter,Late
+FD216,2.2,Rainy,Low,4.0,26,Bike,On Time
+FD217,6.5,Sunny,Low,3.3,15,Bike,On Time
+FD218,8.1,Sunny,Medium,4.8,21,Scooter,On Time
+FD219,11.2,Rainy,High,3.1,14,Scooter,Late
+FD220,3.8,Cloudy,High,4.1,15,Scooter,On Time
+FD221,7.5,Cloudy,Medium,4.2,28,Scooter,On Time
+FD222,13.1,Cloudy,Low,2.7,24,Scooter,Late
+FD223,12.1,Cloudy,Medium,2.7,24,Scooter,Late
+FD224,1.5,Sunny,Low,4.1,12,Scooter,On Time
+FD225,7.5,Cloudy,High,4.7,24,Bike,On Time
+FD226,5.5,Cloudy,Low,2.7,13,Scooter,On Time
+FD227,14.8,Sunny,Medium,2.6,32,Scooter,Late
+FD228,14.9,Cloudy,Medium,3.4,19,Scooter,Late
+FD229,6.7,Sunny,Medium,4.5,30,Scooter,On Time
+FD230,1.9,Sunny,Medium,3.2,33,Bike,Late
+FD231,5.7,Cloudy,Low,3.4,30,Scooter,On Time
+FD232,2.8,Cloudy,Low,3.9,30,Scooter,On Time
+FD233,12.4,Cloudy,High,4.3,31,Bike,Late
+FD234,10.0,Sunny,Medium,3.4,15,Bike,On Time
+FD235,5.8,Rainy,Low,5.0,14,Bike,On Time
+FD236,5.1,Rainy,Medium,3.8,33,Bike,Late
+FD237,10.3,Rainy,Medium,4.0,14,Bike,On Time
+FD238,3.5,Cloudy,Medium,4.8,33,Scooter,On Time
+FD239,1.6,Sunny,Medium,4.9,29,Scooter,On Time
+FD240,11.5,Rainy,Low,3.1,35,Scooter,Late
+FD241,13.7,Sunny,Medium,3.9,24,Scooter,Late
+FD242,11.8,Rainy,Medium,3.5,15,Bike,On Time
+FD243,12.2,Sunny,Low,4.1,21,Bike,On Time
+FD244,11.0,Cloudy,Low,2.7,15,Scooter,On Time
+FD245,7.3,Cloudy,High,2.7,17,Scooter,On Time
+FD246,13.4,Rainy,Medium,3.5,21,Bike,Late
+FD247,6.4,Sunny,Low,3.3,13,Scooter,On Time
+FD248,12.1,Sunny,Low,4.6,32,Bike,Late
+FD249,11.6,Cloudy,Medium,4.8,10,Scooter,On Time
+FD250,4.0,Sunny,High,4.0,23,Bike,On Time
+FD251,11.9,Sunny,Low,3.1,30,Scooter,Late
+FD252,1.9,Rainy,Medium,3.8,30,Bike,Late
+FD253,11.1,Sunny,Low,3.4,28,Scooter,On Time
+FD254,3.6,Cloudy,Medium,3.4,26,Bike,On Time
+FD255,6.5,Cloudy,Medium,5.0,18,Bike,On Time
+FD256,6.0,Sunny,Low,4.1,13,Scooter,On Time
+FD257,2.9,Sunny,Low,4.1,34,Scooter,On Time
+FD258,14.7,Cloudy,Low,2.8,32,Scooter,Late
+FD259,1.5,Sunny,High,4.7,20,Scooter,On Time
+FD260,8.2,Rainy,Medium,3.1,34,Bike,Late
+FD261,5.0,Rainy,Low,4.1,18,Bike,On Time
+FD262,12.2,Sunny,Medium,3.6,22,Scooter,On Time
+FD263,14.6,Cloudy,Medium,4.8,26,Scooter,Late
+FD264,12.2,Cloudy,Low,4.0,15,Scooter,On Time
+FD265,5.5,Sunny,Medium,3.3,29,Scooter,Late
+FD266,3.3,Sunny,Medium,4.3,21,Scooter,On Time
+FD267,4.8,Rainy,High,2.7,30,Scooter,Late
+FD268,6.1,Rainy,Medium,4.9,14,Scooter,On Time
+FD269,1.5,Sunny,High,3.4,22,Bike,On Time
+FD270,9.5,Cloudy,High,3.4,34,Bike,Late
+FD271,9.0,Cloudy,Medium,4.1,17,Bike,On Time
+FD272,1.4,Sunny,Medium,4.8,13,Scooter,On Time
+FD273,11.8,Cloudy,Low,4.0,32,Scooter,On Time
+FD274,3.8,Sunny,Low,2.9,32,Scooter,On Time
+FD275,15.0,Rainy,High,5.0,31,Scooter,Late
+FD276,10.9,Cloudy,Low,3.2,15,Bike,On Time
+FD277,12.1,Cloudy,Low,3.0,14,Bike,On Time
+FD278,12.1,Sunny,Medium,3.4,35,Bike,Late
+FD279,9.6,Sunny,Low,5.0,33,Scooter,On Time
+FD280,8.4,Rainy,High,2.7,20,Bike,Late
+FD281,7.3,Cloudy,Low,4.7,34,Bike,On Time
+FD282,11.7,Sunny,Medium,4.7,13,Bike,On Time
+FD283,5.3,Sunny,High,3.1,26,Scooter,Late
+FD284,12.8,Sunny,Medium,3.9,14,Scooter,On Time
+FD285,9.6,Sunny,Medium,4.0,28,Bike,On Time
+FD286,3.4,Cloudy,High,3.3,28,Bike,Late
+FD287,12.6,Sunny,Low,4.1,28,Scooter,On Time
+FD288,10.1,Rainy,Medium,4.1,25,Scooter,Late
+FD289,10.0,Sunny,Low,4.5,22,Scooter,On Time
+FD290,7.3,Cloudy,Low,3.5,24,Bike,On Time
+FD291,5.8,Sunny,High,3.3,21,Scooter,On Time
+FD292,2.8,Sunny,Medium,3.3,24,Bike,On Time
+FD293,4.7,Sunny,Low,3.2,22,Scooter,On Time
+FD294,4.5,Rainy,Low,3.3,28,Scooter,On Time
+FD295,3.7,Sunny,High,3.7,19,Scooter,On Time
+FD296,1.3,Rainy,Medium,4.9,16,Scooter,On Time
+FD297,1.7,Sunny,Medium,4.6,31,Scooter,On Time
+FD298,5.0,Sunny,Low,2.8,18,Scooter,On Time
+FD299,11.7,Sunny,Medium,3.9,16,Scooter,On Time
+FD300,8.7,Sunny,Medium,4.4,18,Bike,On Time
+FD301,2.8,Sunny,Medium,5.0,27,Scooter,On Time
+FD302,11.6,Sunny,Medium,3.8,11,Bike,On Time
+FD303,2.9,Sunny,Medium,3.6,29,Bike,On Time
+FD304,5.6,Cloudy,Low,5.0,33,Scooter,On Time
+FD305,9.3,Cloudy,Medium,3.7,28,Scooter,On Time
+FD306,7.6,Sunny,Low,2.8,23,Scooter,On Time
+FD307,12.2,Cloudy,Medium,2.6,25,Scooter,Late
+FD308,14.5,Rainy,High,3.9,33,Bike,Late
+FD309,9.2,Sunny,Medium,4.0,22,Bike,On Time
+FD310,12.5,Sunny,Medium,4.3,16,Bike,On Time
+FD311,7.2,Sunny,Medium,3.0,26,Scooter,On Time
+FD312,13.2,Cloudy,Low,2.8,16,Scooter,On Time
+FD313,15.0,Cloudy,Medium,4.9,24,Scooter,Late
+FD314,8.6,Cloudy,High,4.2,35,Scooter,Late
+FD315,9.5,Sunny,Low,3.9,17,Scooter,On Time
+FD316,11.8,Cloudy,Medium,3.7,25,Scooter,On Time
+FD317,8.8,Rainy,Medium,3.2,28,Scooter,Late
+FD318,13.5,Sunny,Low,4.4,14,Scooter,On Time
+FD319,1.6,Rainy,Low,4.8,30,Scooter,On Time
+FD320,11.5,Sunny,High,3.2,27,Scooter,Late
+FD321,2.9,Cloudy,Medium,3.1,31,Bike,Late
+FD322,9.9,Sunny,Medium,4.3,13,Bike,On Time
+FD323,1.1,Cloudy,High,3.5,25,Scooter,On Time
+FD324,10.1,Rainy,Low,3.2,11,Bike,On Time
+FD325,10.1,Sunny,Medium,4.6,11,Bike,On Time
+FD326,6.9,Rainy,High,2.6,22,Scooter,Late
+FD327,3.6,Cloudy,High,3.2,11,Bike,On Time
+FD328,5.2,Cloudy,High,3.3,24,Scooter,Late
+FD329,13.4,Sunny,Medium,3.2,35,Bike,Late
+FD330,5.6,Cloudy,Medium,4.3,10,Scooter,On Time
+FD331,12.1,Cloudy,High,2.9,30,Scooter,Late
+FD332,12.6,Cloudy,Low,4.2,15,Bike,On Time
+FD333,7.7,Rainy,Low,3.5,24,Scooter,On Time
+FD334,14.4,Sunny,Medium,2.5,30,Scooter,Late
+FD335,10.7,Sunny,Low,3.3,22,Scooter,On Time
+FD336,10.7,Cloudy,High,3.4,17,Bike,Late
+FD337,14.4,Cloudy,Medium,5.0,21,Scooter,On Time
+FD338,10.8,Rainy,High,4.5,16,Bike,Late
+FD339,10.5,Cloudy,High,3.8,26,Scooter,Late
+FD340,2.1,Cloudy,Low,3.9,26,Bike,On Time
+FD341,9.0,Sunny,Low,3.8,13,Bike,On Time
+FD342,11.0,Cloudy,High,3.6,11,Scooter,On Time
+FD343,2.8,Sunny,Medium,3.9,31,Scooter,On Time
+FD344,11.1,Sunny,High,4.4,28,Bike,Late
+FD345,1.6,Sunny,Low,5.0,12,Scooter,On Time
+FD346,1.4,Sunny,High,4.4,33,Scooter,Late
+FD347,6.2,Rainy,Medium,4.8,22,Scooter,On Time
+FD348,2.1,Rainy,High,2.8,21,Bike,Late
+FD349,3.5,Cloudy,Medium,4.3,17,Bike,On Time
+FD350,11.6,Rainy,Medium,4.3,23,Scooter,Late
+FD351,12.5,Sunny,Low,3.2,33,Bike,Late
+FD352,1.5,Cloudy,Medium,4.8,10,Bike,On Time
+FD353,3.9,Sunny,Low,4.0,32,Bike,On Time
+FD354,4.4,Sunny,Medium,3.8,34,Bike,On Time
+FD355,3.0,Rainy,Low,4.8,28,Scooter,On Time
+FD356,9.1,Rainy,High,3.1,14,Bike,Late
+FD357,6.8,Sunny,Medium,4.0,33,Bike,On Time
+FD358,9.8,Sunny,Medium,4.9,30,Scooter,Late
+FD359,12.0,Sunny,Medium,2.9,22,Bike,On Time
+FD360,11.6,Cloudy,High,3.3,32,Bike,Late
+FD361,12.3,Rainy,Medium,4.9,27,Bike,Late
+FD362,6.4,Sunny,Low,2.7,24,Scooter,On Time
+FD363,2.3,Cloudy,Low,3.2,31,Bike,On Time
+FD364,13.2,Sunny,High,4.3,27,Bike,Late
+FD365,7.7,Rainy,Low,4.9,10,Bike,On Time
+FD366,14.1,Rainy,Low,5.0,25,Bike,Late
+FD367,10.7,Cloudy,Medium,3.1,20,Scooter,On Time
+FD368,6.3,Cloudy,Medium,3.2,26,Scooter,On Time
+FD369,7.5,Rainy,Medium,4.4,20,Bike,On Time
+FD370,6.2,Sunny,Medium,3.1,14,Bike,On Time
+FD371,4.7,Rainy,Medium,3.5,14,Bike,On Time
+FD372,5.6,Sunny,High,3.7,30,Scooter,Late
+FD373,4.6,Rainy,High,4.1,25,Scooter,Late
+FD374,3.4,Rainy,Low,4.3,25,Bike,On Time
+FD375,13.8,Cloudy,Medium,2.6,11,Bike,Late
+FD376,14.2,Cloudy,High,3.5,30,Bike,Late
+FD377,2.0,Sunny,Low,3.6,11,Scooter,On Time
+FD378,10.2,Sunny,Medium,3.5,10,Scooter,On Time
+FD379,8.5,Sunny,Medium,4.2,23,Bike,On Time
+FD380,2.5,Sunny,Low,3.0,26,Scooter,On Time
+FD381,12.4,Sunny,Medium,3.4,22,Scooter,Late
+FD382,8.9,Rainy,Low,4.2,12,Bike,On Time
+FD383,2.3,Sunny,Medium,2.6,10,Bike,On Time
+FD384,2.2,Rainy,Medium,3.3,13,Bike,On Time
+FD385,4.2,Rainy,Medium,3.9,18,Bike,On Time
+FD386,13.9,Cloudy,Low,3.9,31,Bike,Late
+FD387,3.5,Rainy,Low,3.0,14,Scooter,On Time
+FD388,14.0,Sunny,Medium,3.9,22,Scooter,On Time
+FD389,6.4,Cloudy,High,4.2,12,Scooter,On Time
+FD390,1.8,Sunny,High,3.4,34,Scooter,Late
+FD391,14.6,Sunny,Medium,4.5,24,Scooter,Late
+FD392,4.2,Cloudy,Medium,3.0,28,Scooter,On Time
+FD393,2.2,Cloudy,High,4.3,12,Scooter,On Time
+FD394,3.2,Cloudy,Medium,4.3,20,Scooter,On Time
+FD395,2.5,Sunny,Low,3.4,18,Bike,On Time
+FD396,2.9,Sunny,Medium,3.9,23,Bike,On Time
+FD397,1.4,Sunny,Low,4.0,20,Scooter,On Time
+FD398,1.2,Sunny,High,4.3,27,Bike,On Time
+FD399,9.0,Sunny,Medium,2.8,19,Scooter,On Time
+FD400,7.9,Sunny,Medium,3.6,25,Bike,On Time
+FD401,6.1,Rainy,Medium,3.7,29,Bike,Late
+FD402,7.4,Sunny,Low,3.5,29,Scooter,On Time
+FD403,12.3,Sunny,Low,4.5,30,Bike,Late
+FD404,5.2,Cloudy,Medium,3.7,15,Scooter,On Time
+FD405,14.6,Sunny,Medium,3.7,28,Bike,Late
+FD406,5.6,Sunny,High,3.4,28,Bike,Late
+FD407,9.3,Cloudy,Medium,3.9,33,Scooter,Late
+FD408,14.2,Sunny,High,4.6,12,Scooter,Late
+FD409,10.4,Sunny,Low,3.1,14,Scooter,On Time
+FD410,12.0,Sunny,High,3.7,22,Scooter,On Time
+FD411,8.6,Rainy,Medium,4.7,27,Bike,Late
+FD412,2.5,Sunny,Medium,2.9,29,Bike,Late
+FD413,8.9,Cloudy,Medium,4.9,20,Scooter,On Time
+FD414,2.5,Sunny,Low,4.4,27,Bike,On Time
+FD415,7.2,Sunny,High,4.0,26,Bike,On Time
+FD416,5.8,Sunny,Low,3.5,12,Bike,On Time
+FD417,12.6,Cloudy,Low,3.4,35,Bike,Late
+FD418,8.3,Sunny,Low,4.3,24,Scooter,On Time
+FD419,1.9,Sunny,Medium,2.6,20,Bike,On Time
+FD420,10.5,Sunny,High,3.1,15,Bike,Late
+FD421,5.6,Sunny,Medium,4.5,30,Bike,On Time
+FD422,3.6,Cloudy,Medium,4.3,16,Scooter,On Time
+FD423,9.3,Sunny,Medium,3.0,34,Bike,Late
+FD424,9.1,Rainy,Medium,3.4,16,Scooter,Late
+FD425,2.6,Cloudy,Medium,4.9,20,Scooter,On Time
+FD426,9.6,Cloudy,Low,4.6,29,Bike,On Time
+FD427,12.4,Cloudy,Low,4.0,12,Bike,On Time
+FD428,5.4,Sunny,Low,3.4,14,Scooter,On Time
+FD429,6.9,Sunny,Medium,3.0,30,Bike,Late
+FD430,8.8,Cloudy,Low,3.3,24,Bike,On Time
+FD431,13.1,Rainy,Medium,3.0,22,Scooter,Late
+FD432,6.7,Cloudy,Medium,3.6,15,Bike,On Time
+FD433,8.9,Rainy,Low,2.6,17,Scooter,On Time
+FD434,3.4,Cloudy,Medium,4.4,27,Bike,On Time
+FD435,9.0,Sunny,Medium,5.0,27,Bike,On Time
+FD436,11.6,Sunny,Low,3.6,33,Bike,On Time
+FD437,5.2,Rainy,Medium,3.4,12,Scooter,On Time
+FD438,13.1,Sunny,High,3.0,33,Scooter,Late
+FD439,13.1,Cloudy,Medium,4.0,35,Bike,Late
+FD440,12.4,Rainy,Medium,3.8,29,Bike,Late
+FD441,5.5,Cloudy,Low,3.2,26,Bike,On Time
+FD442,2.9,Rainy,Medium,2.6,18,Bike,On Time
+FD443,10.8,Sunny,Low,3.3,17,Scooter,On Time
+FD444,7.9,Cloudy,Low,3.5,24,Bike,On Time
+FD445,9.9,Rainy,Low,3.8,18,Scooter,On Time
+FD446,7.4,Cloudy,Medium,4.7,33,Bike,On Time
+FD447,11.2,Cloudy,Medium,3.4,12,Scooter,On Time
+FD448,4.0,Sunny,Low,3.2,19,Scooter,On Time
+FD449,8.7,Sunny,High,4.5,31,Bike,Late
+FD450,1.6,Cloudy,High,2.5,15,Scooter,On Time
+FD451,7.4,Rainy,Medium,5.0,14,Scooter,On Time
+FD452,3.2,Rainy,Low,4.1,18,Bike,On Time
+FD453,6.2,Rainy,Low,3.5,19,Bike,On Time
+FD454,7.0,Sunny,Low,3.0,12,Bike,On Time
+FD455,9.3,Cloudy,Medium,2.5,20,Bike,On Time
+FD456,14.8,Sunny,Low,2.7,22,Bike,On Time
+FD457,11.2,Sunny,Low,4.7,14,Scooter,On Time
+FD458,11.8,Rainy,Low,5.0,14,Bike,On Time
+FD459,8.4,Sunny,Medium,3.6,33,Bike,Late
+FD460,9.8,Sunny,Medium,4.2,16,Bike,On Time
+FD461,13.6,Sunny,Low,4.3,21,Scooter,On Time
+FD462,5.4,Sunny,Low,2.7,27,Scooter,On Time
+FD463,11.9,Cloudy,High,4.1,19,Bike,On Time
+FD464,8.2,Cloudy,Medium,3.2,11,Bike,On Time
+FD465,7.9,Sunny,Medium,4.0,26,Bike,On Time
+FD466,14.8,Rainy,Low,4.7,28,Scooter,Late
+FD467,6.1,Cloudy,High,4.9,34,Bike,Late
+FD468,1.2,Sunny,Low,2.6,11,Scooter,On Time
+FD469,8.1,Cloudy,Medium,3.5,32,Scooter,Late
+FD470,2.2,Cloudy,Medium,3.2,19,Bike,On Time
+FD471,8.2,Sunny,High,3.8,22,Bike,On Time
+FD472,5.3,Sunny,High,3.1,17,Bike,On Time
+FD473,13.9,Sunny,Medium,2.6,31,Bike,Late
+FD474,2.7,Cloudy,Medium,2.9,21,Scooter,On Time
+FD475,3.3,Sunny,High,3.2,13,Bike,On Time
+FD476,5.7,Sunny,Medium,3.2,28,Bike,On Time
+FD477,7.9,Cloudy,Low,4.6,15,Scooter,On Time
+FD478,3.2,Rainy,High,4.2,13,Bike,On Time
+FD479,11.4,Sunny,High,2.5,11,Scooter,Late
+FD480,6.1,Rainy,Low,4.9,11,Scooter,On Time
+FD481,4.1,Sunny,High,3.3,12,Scooter,On Time
+FD482,2.7,Cloudy,Low,3.1,26,Bike,On Time
+FD483,14.4,Sunny,Medium,3.2,19,Scooter,Late
+FD484,2.2,Cloudy,Medium,3.2,35,Scooter,Late
+FD485,11.4,Sunny,Medium,4.9,34,Bike,Late
+FD486,11.3,Cloudy,High,2.9,23,Bike,Late
+FD487,4.3,Sunny,High,4.7,20,Bike,On Time
+FD488,11.6,Sunny,Medium,3.3,16,Bike,On Time
+FD489,6.9,Rainy,High,2.9,18,Bike,Late
+FD490,1.6,Sunny,High,3.5,21,Scooter,On Time
+FD491,14.6,Sunny,Low,2.8,22,Bike,On Time
+FD492,9.3,Sunny,Medium,2.8,19,Scooter,On Time
+FD493,12.9,Rainy,Medium,4.6,20,Scooter,Late
+FD494,7.3,Sunny,High,2.8,34,Bike,Late
+FD495,3.2,Sunny,Medium,3.5,27,Scooter,On Time
+FD496,14.5,Sunny,Low,3.2,13,Bike,On Time
+FD497,3.2,Cloudy,High,4.2,11,Bike,On Time
+FD498,12.7,Sunny,Low,3.1,21,Scooter,On Time
+FD499,8.2,Cloudy,Low,5.0,10,Scooter,On Time
+FD500,13.0,Cloudy,Medium,2.7,13,Bike,Late
